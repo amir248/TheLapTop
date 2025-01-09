@@ -175,3 +175,7 @@ footer > hr{
     height:3px;
     margin-bottom:3%;
 }
+#sigCommentsBlock{
+    width:100%;
+    max-width:700px;
+}
